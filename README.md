@@ -11,17 +11,17 @@ From my market research, I have not found any VR gadgets out there with similar 
 
 ### User Stories:
 
-As a player, I want score
+#### As a player, I want score
 Adding a score at the end of the game showing how many enemies have been killed can improve replayability and encourage players to challenge each other (1 enemy killed = 1 point)
 
-As a player, I would like to have good aiming accuracy
+#### As a player, I would like to have good aiming accuracy
 The glove itself will have to be accurate in accordance with the gun in-game
 
-As a player, I would like the gameplay to be fairly fast faced
+#### As a player, I would like the gameplay to be fairly fast faced
 Although the enemies themselves aren't very quick, I will have to keep turning and shooting to avoid getting surrounded (they spawn around the player) 
 
-As a player, I want the glove to be comfortable
+#### As a player, I want the glove to be comfortable
 The glove will have to be worn at all times to play the game, so ensuring comfort is important
 
-As a player, I want distinctive audio
+#### As a player, I want distinctive audio
 Audio plays a notable part as I will need to hear when an enemy is getting closer in order to realise which one to prioritise
