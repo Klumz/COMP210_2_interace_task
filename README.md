@@ -2,9 +2,11 @@
 
 My game is basic in the sense that you shoot and kill slowly approaching enemies towards you with your gun. The physical part to shoot the gun in-game with will be a button attached to a glove (right hand) between the thumb and index finger, forcing the user to shape and simulate their hand like a gun. The board will be attached on the same glove but behind it. The goal of the game is to get as many points as you can while avoiding death, which is caused when one of the approaching enemies touch you. 
 
+### Market Research
+
 From my market research, I have not found any similar VR games out there. Although I have found similar-ish gloves such as the [CyberTouch glove](http://www.cyberglovesystems.com/cybertouch/) and the classic [Power Glove](https://en.wikipedia.org/wiki/Power_Glove) by Nintendo. However they are not exactly what I had in mind. 
 
-User Stories:
+### User Stories:
 
 As a player, I want score
 Adding a score at the end of the game showing how many enemies have been killed can improve replayability and encourage players to challenge each other (1 enemy killed = 1 point)
