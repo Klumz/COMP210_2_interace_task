@@ -1,4 +1,4 @@
-# COMP210_2_interace_task
+# COMP210_2_interface_task
 
 My game is a first-person shooter where you shoot and kill slowly approaching enemies towards you with your gun. The physical part to shoot the gun in-game with will be a button attached to a glove (right hand) between the thumb and index fingers, forcing the user to shape and simulate their hand like a gun. The board will be attached on the same glove but behind it. The goal of the game is to get as many points as you can while avoiding death, which is caused when one of the approaching enemies touches you once. One enemy death gives 1 point, and they'll keep respawning until you lose.
 
